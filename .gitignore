@@ -1,0 +1,18 @@
+Add_Two_Numbers/.vs/
+Add_Two_Numbers/Add_Two_Numbers.sln
+Add_Two_Numbers/Add_Two_Numbers/Add_Two_Numbers.csproj
+Add_Two_Numbers/Add_Two_Numbers/obj/Add_Two_Numbers.csproj.nuget.dgspec.json
+Add_Two_Numbers/Add_Two_Numbers/obj/
+
+eight_queen/
+Reverse Integer/Reverse Integer/obj/
+Reverse Integer/Reverse Integer.sln
+Reverse Integer/.vs/
+Reverse Integer/Reverse Integer/Reverse Integer.csproj
+Reverse Integer/Reverse Integer/bin/
+two_sum/two_sum.sln
+two_sum/ConsoleApp1/bin/
+two_sum/ConsoleApp1/obj/
+two_sum/.vs/two_sum/DesignTimeBuild/.dtbcache.v2
+two_sum/.vs/two_sum/v16/.suo
+two_sum/ConsoleApp1/ConsoleApp1.csproj
