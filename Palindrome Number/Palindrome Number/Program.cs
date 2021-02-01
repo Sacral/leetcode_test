@@ -25,7 +25,6 @@ namespace Palindrome_Number
             bool fin=false;
 
 
-
             List<string> ls = new List<string>();
 
             for (int i = 0; i< length; i++)
@@ -41,8 +40,6 @@ namespace Palindrome_Number
 
                 if (Comparer(ls[i], ls[length - 1 - i]))
                 {
-
-                    Console.WriteLine(Comparer(ls[i], ls[length - 1 - i]));
                     fin = true;
                 }
 
