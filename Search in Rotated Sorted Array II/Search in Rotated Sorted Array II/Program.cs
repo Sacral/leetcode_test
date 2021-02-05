@@ -28,14 +28,6 @@ namespace Search_in_Rotated_Sorted_Array_II
 
             int num_index = list_num.IndexOf(target);
 
-           /* if (num_index != -1)
-            {
-                return true;
-            }*/
-
-            //classify = (input >= 0) ? "nonnegative" : "negative";
-
-
 
             return (num_index==-1)?false:true;
         }

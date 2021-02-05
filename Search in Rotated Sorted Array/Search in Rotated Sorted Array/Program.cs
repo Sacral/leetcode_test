@@ -14,7 +14,7 @@ namespace Search_in_Rotated_Sorted_Array
 
 
 
-            Console.WriteLine(Search(nums,0));
+            Console.WriteLine(Search(nums,3));
         }
 
         public static int Search(int[] nums, int target)
