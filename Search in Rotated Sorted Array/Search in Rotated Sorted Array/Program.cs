@@ -31,9 +31,6 @@ namespace Search_in_Rotated_Sorted_Array
 
             int num_index = list_num.IndexOf(target);
 
-
-
-
             return num_index;
         }
 
