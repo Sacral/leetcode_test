@@ -23,8 +23,6 @@ namespace Count_and_Say
 
             char re_char = '0';
 
-            string[] com = new string[10];
-
             string result = "";
 
             int coun=1;
