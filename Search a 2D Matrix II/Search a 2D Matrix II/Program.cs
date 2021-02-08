@@ -24,22 +24,6 @@ namespace Search_a_2D_Matrix_II
         public static bool SearchMatrix(int[][] matrix, int target)
         {
 
-            int nums_index = 0;
-
-            //行數
-            /* for(int i =0; i < matrix.Length; i++)
-             {
-
-                 Console.WriteLine(matrix.ToString());
-
-                     if (matrix.Equals (target))
-                     {
-                         return true;
-                     }
-
-
-             }*/
-
             for (int i = 0; i <= matrix.GetLength(0) - 1; i++)
             {
 
@@ -63,13 +47,7 @@ namespace Search_a_2D_Matrix_II
                     }
                 }
 
-
-               // Console.WriteLine(matrix[i].ToString());
-
             }
-
-
-
 
             return false;
         }
